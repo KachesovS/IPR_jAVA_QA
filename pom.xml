@@ -16,7 +16,7 @@
     </properties>
 
     <dependencies>
-        <!-- Selenide -->
+       
         <!-- Selenide -->
         <dependency>
             <groupId>com.codeborne</groupId>
