@@ -74,6 +74,7 @@ data:
     details: |
       {
         "description": "Это шестой объект",
+        "description": "Это шестой объект",
         "value": 600,
         "category": "C"
       }
