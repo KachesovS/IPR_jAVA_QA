@@ -1,0 +1,79 @@
+# Пример YAML файла с несколькими JSON объектами
+data:
+  - id: 1
+    name: "Объект 1"
+    attributes:
+      color: "красный"
+      size: "большой"
+      weight: 150
+    details: |
+      {
+        "description": "Это первый объект",
+        "value": 100,
+        "category": "A"
+      }
+
+  - id: 2
+    name: "Объект 2"
+    attributes:
+      color: "синий"
+      size: "средний"
+      weight: 100
+    details: |
+      {
+        "description": "Это второй объект",
+        "value": 200,
+        "category": "B"
+      }
+
+  - id: 3
+    name: "Объект 3"
+    attributes:
+      color: "зеленый"
+      size: "маленький"
+      weight: 50
+    details: |
+      {
+        "description": "Это третий объект",
+        "value": 300,
+        "category": "C"
+      }
+
+  - id: 4
+    name: "Объект 4"
+    attributes:
+      color: "желтый"
+      size: "большой"
+      weight: 200
+    details: |
+      {
+        "description": "Это четвертый объект",
+        "value": 400,
+        "category": "A"
+      }
+
+  - id: 5
+    name: "Объект 5"
+    attributes:
+      color: "оранжевый"
+      size: "средний"
+      weight: 120
+    details: |
+      {
+        "description": "Это пятый объект",
+        "value": 500,
+        "category": "B"
+      }
+
+  - id: 6
+    name: "Объект 6"
+    attributes:
+      color: "фиолетовый"
+      size: "маленький"
+      weight: 30
+    details: |
+      {
+        "description": "Это шестой объект",
+        "value": 600,
+        "category": "C"
+      }
