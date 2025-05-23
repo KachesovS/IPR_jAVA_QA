@@ -17,6 +17,7 @@
 
     <dependencies>
         <!-- Selenide -->
+        <!-- Selenide -->
         <dependency>
             <groupId>com.codeborne</groupId>
             <artifactId>selenide</artifactId>
